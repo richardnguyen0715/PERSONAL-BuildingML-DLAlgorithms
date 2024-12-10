@@ -1,0 +1,8 @@
+BFS
+Steps: 26, Weight: 14, Node: 391, Time(ms): 14.95, Memory(MB): 0.0078125
+rrrrrrrrrrruLLLLLLLLLLLLLL
+UCS
+No solution, Time(ms): 2.9869, Memory(MB): 0.00390625
+UCS
+Steps: 82, Weight: 1300, Node: 9274, Time(ms): 310.0073, Memory(MB): 3.98828125
+luurrrrrurrrdLLLLLLLulDDurrrrrurrrrrdLLLLLLLLLLrrrrrrrrrrrddllllllllllLLLLrrruuLLL

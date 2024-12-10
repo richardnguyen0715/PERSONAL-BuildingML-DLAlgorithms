@@ -1,0 +1,5 @@
+Các thư viện cần cài đặt thêm:
+1. pygame
+2. tkinter
+3. memory_profiler
+4. psutil
